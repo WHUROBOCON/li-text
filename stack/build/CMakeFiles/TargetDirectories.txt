@@ -1,0 +1,3 @@
+D:/code/stack/build/CMakeFiles/stack.dir
+D:/code/stack/build/CMakeFiles/edit_cache.dir
+D:/code/stack/build/CMakeFiles/rebuild_cache.dir

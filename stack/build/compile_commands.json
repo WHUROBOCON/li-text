@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/code/stack/build",
+  "command": "D:\\QT\\Tools\\mingw1120_64\\bin\\gcc.exe -ID:/code/stack/. -g -o CMakeFiles\\stack.dir\\src\\stack.obj -c D:\\code\\stack\\src\\stack.c",
+  "file": "D:\\code\\stack\\src\\stack.c",
+  "output": "CMakeFiles\\stack.dir\\src\\stack.obj"
+},
+{
+  "directory": "D:/code/stack/build",
+  "command": "D:\\QT\\Tools\\mingw1120_64\\bin\\gcc.exe -ID:/code/stack/. -g -o CMakeFiles\\stack.dir\\src\\list.obj -c D:\\code\\stack\\src\\list.c",
+  "file": "D:\\code\\stack\\src\\list.c",
+  "output": "CMakeFiles\\stack.dir\\src\\list.obj"
+}
+]

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/code/doublelist/build",
+  "command": "D:\\QT\\Tools\\mingw1120_64\\bin\\gcc.exe -ID:/code/doublelist/. -g -o CMakeFiles\\doublelist.dir\\src\\doublelist2.obj -c D:\\code\\doublelist\\src\\doublelist2.c",
+  "file": "D:\\code\\doublelist\\src\\doublelist2.c",
+  "output": "CMakeFiles\\doublelist.dir\\src\\doublelist2.obj"
+}
+]

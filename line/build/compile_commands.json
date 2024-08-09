@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/code/line/build",
+  "command": "D:\\QT\\Tools\\mingw1120_64\\bin\\gcc.exe -ID:/code/line/. -g -o CMakeFiles\\line.dir\\src\\queue.obj -c D:\\code\\line\\src\\queue.c",
+  "file": "D:\\code\\line\\src\\queue.c",
+  "output": "CMakeFiles\\line.dir\\src\\queue.obj"
+}
+]

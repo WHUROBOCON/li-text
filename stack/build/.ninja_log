@@ -1,0 +1,7 @@
+# ninja log v5
+10	1122	7448725875244940	CMakeFiles/stack.dir/src/stack.obj	68eb9a3027478142
+1123	1774	7448725881722938	stack.exe	26999f4b70a33e73
+15	115	7448727290387401	CMakeFiles/stack.dir/src/list.obj	908221617bbcf530
+4	90	7448730588163211	CMakeFiles/stack.dir/src/list.obj	908221617bbcf530
+5	97	7448730995209281	CMakeFiles/stack.dir/src/list.obj	908221617bbcf530
+21	96	7448731425153331	CMakeFiles/stack.dir/src/list.obj	908221617bbcf530
